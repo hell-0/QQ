@@ -1,0 +1,7 @@
+###### Requirements without Version Specifiers ######`
+psycopg2-binary
+
+###### Requirements with Version Specifiers ######`
+django==3.0.6             # via -r requirements.in
+sqlparse==0.3.1           # via django
+python-environ==0.4.54
